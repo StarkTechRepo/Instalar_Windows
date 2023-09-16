@@ -18,15 +18,11 @@
    - **Descripción:** Descarga Windows 11 Enterprise, la edición empresarial de Windows 11 con características avanzadas de seguridad y administración.
    - **Enlace:** [Descargar Windows 11 Enterprise](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise)
 
-# 6.  **Windows 11 Home sin conexión a internet:**
-   - **Descripción:** Obtén una versión de Windows 11 Home diseñada para instalaciones sin conexión a internet.
-   - **Enlace:** [Descargar Windows 11 Home sin conexión a internet](https://www.microsoft.com/en-us/software-download/windows11)
-
-# 7.  **Windows 10 Enterprise LTSC:**
+# 6.  **Windows 10 Enterprise LTSC:**
    - **Descripción:** Descarga Windows 10 Enterprise LTSC, la edición empresarial de Windows 10 con características avanzadas de seguridad y administración.
    - **Enlace:** [Descargar Windows 10 Enterprise](https://www.microsoft.com/es-es/evalcenter/download-windows-10-enterprise)
 
-# 8.  **Windows 11 Enterprise LTSC:**
+# 7.  **Windows 11 Enterprise LTSC:**
    - **Descripción:** Descarga Windows 11 Enterprise LTSC, la edición empresarial de Windows 11 con características avanzadas de seguridad y administración.
    - **Enlace:** [Descargar Windows 11 Enterprise](https://www.microsoft.com/es-es/evalcenter/download-windows-11-enterprise)
 
