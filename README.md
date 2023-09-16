@@ -26,7 +26,7 @@
    - **Descripción:** Descarga Windows 11 Enterprise LTSC, la edición empresarial de Windows 11 con características avanzadas de seguridad y administración.
    - **Enlace:** [Descargar Windows 11 Enterprise](https://www.microsoft.com/es-es/evalcenter/download-windows-11-enterprise)
 
-# **Windows 11 Home sin conexión a internet:**
+# 8. **Windows 11 Home sin conexión a internet:**
 
 Durante la instalación de Windows 11, si deseas realizar la configuración sin conexión a internet, sigue estos pasos:
 
@@ -44,7 +44,7 @@ Durante la instalación de Windows 11, si deseas realizar la configuración sin 
    
 Estos pasos te permitirán configurar Windows 11 Home sin conexión a internet y elegir la opción que mejor se adapte a tus necesidades.
 
-# **Instalación de Windows sin Bloatware:**
+# 9. **Instalación de Windows sin Bloatware:**
 
 En el asistente de instalación de Windows, cuando llegues a la configuración de la hora y la moneda, seleccionar "Inglés Internacional" puede ayudarte a obtener una instalación más limpia de Windows, con menos bloatware o software innecesario preinstalado. Aquí te explicamos cómo hacerlo:
 
