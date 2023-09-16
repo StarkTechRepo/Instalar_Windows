@@ -60,7 +60,7 @@ Recuerda que esta opción de idioma es solo uno de los factores que influyen en 
 
 
 
-# **Seleccionar el Idioma una Vez Instalado Windows:**
+# 10. **Seleccionar el Idioma una Vez Instalado Windows:**
 
 Una vez que Windows está instalado, puedes cambiar el idioma de la interfaz del sistema en cualquier momento siguiendo estos pasos:
 
