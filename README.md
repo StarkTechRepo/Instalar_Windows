@@ -22,6 +22,14 @@
    - **Descripción:** Obtén una versión de Windows 11 Home diseñada para instalaciones sin conexión a internet.
    - **Enlace:** [Descargar Windows 11 Home sin conexión a internet](https://www.microsoft.com/en-us/software-download/windows11)
 
+# 7.  **Windows 10 Enterprise LTSC:**
+   - **Descripción:** Descarga Windows 10 Enterprise LTSC, la edición empresarial de Windows 10 con características avanzadas de seguridad y administración.
+   - **Enlace:** [Descargar Windows 11 Enterprise](https://www.microsoft.com/es-es/evalcenter/download-windows-10-enterprise)
+
+# 7.  **Windows 11 Enterprise LTSC:**
+   - **Descripción:** Descarga Windows 11 Enterprise LTSC, la edición empresarial de Windows 11 con características avanzadas de seguridad y administración.
+   - **Enlace:** [Descargar Windows 11 Enterprise](https://www.microsoft.com/es-es/evalcenter/download-windows-11-enterprise)
+
 # **Asistente de instalación de Windows 11:**
 
 Durante la instalación de Windows 11, si deseas realizar la configuración sin conexión a internet, sigue estos pasos:
