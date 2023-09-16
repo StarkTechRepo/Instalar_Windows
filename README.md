@@ -26,7 +26,7 @@
    - **Descripción:** Descarga Windows 10 Enterprise LTSC, la edición empresarial de Windows 10 con características avanzadas de seguridad y administración.
    - **Enlace:** [Descargar Windows 11 Enterprise](https://www.microsoft.com/es-es/evalcenter/download-windows-10-enterprise)
 
-# 7.  **Windows 11 Enterprise LTSC:**
+# 8.  **Windows 11 Enterprise LTSC:**
    - **Descripción:** Descarga Windows 11 Enterprise LTSC, la edición empresarial de Windows 11 con características avanzadas de seguridad y administración.
    - **Enlace:** [Descargar Windows 11 Enterprise](https://www.microsoft.com/es-es/evalcenter/download-windows-11-enterprise)
 
