@@ -26,7 +26,7 @@
    - **Descripción:** Descarga Windows 11 Enterprise LTSC, la edición empresarial de Windows 11 con características avanzadas de seguridad y administración.
    - **Enlace:** [Descargar Windows 11 Enterprise](https://www.microsoft.com/es-es/evalcenter/download-windows-11-enterprise)
 
-# **Asistente de instalación de Windows 11:**
+# **Windows 11 Home sin conexión a internet:**
 
 Durante la instalación de Windows 11, si deseas realizar la configuración sin conexión a internet, sigue estos pasos:
 
