@@ -6,6 +6,8 @@
    - **Descripción:** Descarga Rufus, una aplicación para crear unidades USB de arranque, útil para instalar sistemas operativos y herramientas de recuperación.
    - **Enlace:** [Descargar Rufus](https://rufus.ie/)
 
+   ![Imagen](rufus.gif)
+
 # 3. **Windows y Office:**
    - **Descripción:** Accede a una fuente completa de descargas que incluye todas las versiones de Windows y Office.
    - **Enlace:** [Descargar Windows y Office desde la fuente completa](https://tb.rg-adguard.net/public.php)
