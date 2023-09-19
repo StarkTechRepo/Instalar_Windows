@@ -32,7 +32,13 @@
    - **Descripción:** Descarga Windows 8.1 , la edición empresarial de Windows 11 con características avanzadas de seguridad y administración.
    - **Enlace:** [Descargar Windows 8.1](https://www.microsoft.com/es-es/software-download/windows8ISO)
 
-# 9. **Windows 11 Home sin conexión a internet:**
+# 9. **Restablecer Windows a la Configuración de Fábrica**
+
+   -- Si deseas restablecer Windows a su configuración de fábrica, simplemente ejecuta el siguiente comando en una ventana de comandos con privilegios de administrador:
+
+````systemreset --factoryreset````
+
+# 10. **Windows 11 Home sin conexión a internet:**
 
 Durante la instalación de Windows 11, si deseas realizar la configuración sin conexión a internet, sigue estos pasos:
 
@@ -50,7 +56,7 @@ Durante la instalación de Windows 11, si deseas realizar la configuración sin 
    
 Estos pasos te permitirán configurar Windows 11 Home sin conexión a internet y elegir la opción que mejor se adapte a tus necesidades.
 
-# 10. **Instalación de Windows sin Bloatware:**
+# 11. **Instalación de Windows sin Bloatware:**
 
 En el asistente de instalación de Windows, cuando llegues a la configuración de la hora y la moneda, seleccionar "Inglés Internacional" puede ayudarte a obtener una instalación más limpia de Windows, con menos bloatware o software innecesario preinstalado. Aquí te explicamos cómo hacerlo:
 
@@ -63,7 +69,6 @@ En el asistente de instalación de Windows, cuando llegues a la configuración d
 Seleccionar "Inglés Internacional" en lugar de una variante regional específica puede ayudar a evitar que se instalen aplicaciones o ajustes adicionales que a veces se incluyen en versiones específicas de Windows. Esto puede resultar en una instalación más limpia y personalizable que te permite agregar solo las aplicaciones y configuraciones que realmente necesitas.
 
 Recuerda que esta opción de idioma es solo uno de los factores que influyen en la instalación de Windows, y la cantidad de software preinstalado puede variar según la edición y la fuente de instalación. Siempre es recomendable realizar un seguimiento de las opciones de instalación y ajustes para personalizar tu sistema según tus necesidades.
-
 
 
 # 11. **Seleccionar el Idioma una Vez Instalado Windows:**
@@ -87,7 +92,6 @@ Una vez que Windows está instalado, puedes cambiar el idioma de la interfaz del
 8. Reinicia tu computadora para aplicar los cambios.
 
 Ahora, la interfaz de Windows se mostrará en el nuevo idioma que hayas seleccionado.
-
 
 ## Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
