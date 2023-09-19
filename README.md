@@ -28,7 +28,11 @@
    - **Descripción:** Descarga Windows 11 Enterprise LTSC, la edición empresarial de Windows 11 con características avanzadas de seguridad y administración.
    - **Enlace:** [Descargar Windows 11 Enterprise](https://www.microsoft.com/es-es/evalcenter/download-windows-11-enterprise)
 
-# 8. **Windows 11 Home sin conexión a internet:**
+# 8.  **Windows 8.1:**
+   - **Descripción:** Descarga Windows 8.1 , la edición empresarial de Windows 11 con características avanzadas de seguridad y administración.
+   - **Enlace:** [Descargar Windows 8.1](https://www.microsoft.com/es-es/software-download/windows8ISO)
+
+# 9. **Windows 11 Home sin conexión a internet:**
 
 Durante la instalación de Windows 11, si deseas realizar la configuración sin conexión a internet, sigue estos pasos:
 
@@ -46,7 +50,7 @@ Durante la instalación de Windows 11, si deseas realizar la configuración sin 
    
 Estos pasos te permitirán configurar Windows 11 Home sin conexión a internet y elegir la opción que mejor se adapte a tus necesidades.
 
-# 9. **Instalación de Windows sin Bloatware:**
+# 10. **Instalación de Windows sin Bloatware:**
 
 En el asistente de instalación de Windows, cuando llegues a la configuración de la hora y la moneda, seleccionar "Inglés Internacional" puede ayudarte a obtener una instalación más limpia de Windows, con menos bloatware o software innecesario preinstalado. Aquí te explicamos cómo hacerlo:
 
@@ -62,7 +66,7 @@ Recuerda que esta opción de idioma es solo uno de los factores que influyen en 
 
 
 
-# 10. **Seleccionar el Idioma una Vez Instalado Windows:**
+# 11. **Seleccionar el Idioma una Vez Instalado Windows:**
 
 Una vez que Windows está instalado, puedes cambiar el idioma de la interfaz del sistema en cualquier momento siguiendo estos pasos:
 
