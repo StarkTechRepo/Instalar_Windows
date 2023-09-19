@@ -29,7 +29,7 @@
    - **Enlace:** [Descargar Windows 11 Enterprise](https://www.microsoft.com/es-es/evalcenter/download-windows-11-enterprise)
 
 # 8.  **Windows 8.1:**
-   - **Descripción:** Descarga Windows 8.1 , la edición de Windows 8.1 con menos ocnsumo.
+   - **Descripción:** Descarga Windows 8.1 , la edición de Windows 8.1 con menos consumo.
    - **Enlace:** [Descargar Windows 8.1](https://www.microsoft.com/es-es/software-download/windows8ISO)
 
 # 9. **Restablecer Windows a la Configuración de Fábrica**
