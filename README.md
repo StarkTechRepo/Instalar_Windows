@@ -33,7 +33,7 @@
    - **Enlace:** [Descargar Windows 8.1](https://www.microsoft.com/es-es/software-download/windows8ISO)
 
 # 9. **Restablecer Windows a la Configuración de Fábrica**
-   - **Si deseas restablecer Windows a su configuración de fábrica, simplemente ejecuta el siguiente comando en una ventana de comandos con privilegios de administrador:
+   - Si deseas restablecer **Windows** a su configuración **de fábrica**, simplemente ejecuta el siguiente comando en una ventana de comandos con privilegios de administrador:
 ````systemreset --factoryreset````
 
 # 10. **Windows 11 Home sin conexión a internet:**
