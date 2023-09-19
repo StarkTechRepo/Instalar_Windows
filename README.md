@@ -71,7 +71,7 @@ Seleccionar "Inglés Internacional" en lugar de una variante regional específic
 Recuerda que esta opción de idioma es solo uno de los factores que influyen en la instalación de Windows, y la cantidad de software preinstalado puede variar según la edición y la fuente de instalación. Siempre es recomendable realizar un seguimiento de las opciones de instalación y ajustes para personalizar tu sistema según tus necesidades.
 
 
-# 11. **Seleccionar el Idioma una Vez Instalado Windows:**
+# 12. **Seleccionar el Idioma una Vez Instalado Windows:**
 
 Una vez que Windows está instalado, puedes cambiar el idioma de la interfaz del sistema en cualquier momento siguiendo estos pasos:
 
