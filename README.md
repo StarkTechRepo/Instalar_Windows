@@ -36,7 +36,19 @@
    - Si deseas restablecer **Windows** a su configuración **de fábrica**, simplemente ejecuta el siguiente comando en una ventana de comandos con privilegios de administrador:
 ````systemreset --factoryreset````
 
-# 10. **Windows 11 Home sin conexión a internet:**
+# 10. Creación de una Cuenta Local en Windows durante la Instalación
+
+Si deseas crear una cuenta local en Windows durante el proceso de instalación, puedes seguir este truco:
+
+1. En el campo de dirección de correo electrónico, ingresa una dirección ficticia, por ejemplo, "a@a.com".
+2. Asigna cualquier contraseña.
+3. Continúa con el proceso de instalación.
+
+Es probable que durante el proceso aparezca un error relacionado con la dirección de correo electrónico. Sin embargo, al aceptar ese error, se te permitirá continuar creando una cuenta local en lugar de vincular una cuenta de Microsoft.
+
+Este método proporciona una opción conveniente para aquellos que prefieren mantener su sistema sin una cuenta en línea.
+
+# 11. **Windows 11 Home sin conexión a internet:**
 
 Durante la instalación de Windows 11, si deseas realizar la configuración sin conexión a internet, sigue estos pasos:
 
@@ -54,7 +66,7 @@ Durante la instalación de Windows 11, si deseas realizar la configuración sin 
    
 Estos pasos te permitirán configurar Windows 11 Home sin conexión a internet y elegir la opción que mejor se adapte a tus necesidades.
 
-# 11. **Instalación de Windows sin Bloatware:**
+# 12. **Instalación de Windows sin Bloatware:**
 
 En el asistente de instalación de Windows, cuando llegues a la configuración de la hora y la moneda, seleccionar "Inglés Internacional" puede ayudarte a obtener una instalación más limpia de Windows, con menos bloatware o software innecesario preinstalado. Aquí te explicamos cómo hacerlo:
 
@@ -69,7 +81,7 @@ Seleccionar "Inglés Internacional" en lugar de una variante regional específic
 Recuerda que esta opción de idioma es solo uno de los factores que influyen en la instalación de Windows, y la cantidad de software preinstalado puede variar según la edición y la fuente de instalación. Siempre es recomendable realizar un seguimiento de las opciones de instalación y ajustes para personalizar tu sistema según tus necesidades.
 
 
-# 12. **Seleccionar el Idioma una Vez Instalado Windows:**
+# 13. **Seleccionar el Idioma una Vez Instalado Windows:**
 
 Una vez que Windows está instalado, puedes cambiar el idioma de la interfaz del sistema en cualquier momento siguiendo estos pasos:
 
