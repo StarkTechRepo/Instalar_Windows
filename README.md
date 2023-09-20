@@ -40,7 +40,7 @@
 
 Si deseas crear una cuenta local en Windows durante el proceso de instalación, puedes seguir este truco:
 
-1. En el campo de dirección de correo electrónico, ingresa una dirección ficticia, por ejemplo, "a@a.com".
+1. En el campo de dirección de correo electrónico, ingresa una dirección ficticia, por ejemplo, `a@a.com`.
 2. Asigna cualquier contraseña.
 3. Continúa con el proceso de instalación.
 
