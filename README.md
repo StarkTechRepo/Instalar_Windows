@@ -13,7 +13,6 @@
 12. [Instalación de Windows sin Bloatware](#12-instalación-de-windows-sin-bloatware)
 13. [Seleccionar el Idioma una Vez Instalado Windows](#13-seleccionar-el-idioma-una-vez-instalado-windows)
 14. [Licencia](#licencia)
-15. [Dando Estrella](#dando-estrella)
 
 # 1. **Descargar Ventoy:**
    - **Descripción:** Obtén Ventoy, una herramienta que te permite crear unidades USB de arranque múltiple de manera sencilla.
