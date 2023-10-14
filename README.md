@@ -1,3 +1,20 @@
+# Índice
+1. [Descargar Ventoy](#1-descargar-ventoy)
+2. [Rufus](#2-rufus)
+3. [Windows y Office](#3-windows-y-office)
+4. [Windows 10 Enterprise](#4-windows-10-enterprise)
+5. [Windows 11 Enterprise](#5-windows-11-enterprise)
+6. [Windows 10 Enterprise LTSC](#6-windows-10-enterprise-ltsc)
+7. [Windows 11 Enterprise LTSC](#7-windows-11-enterprise-ltsc)
+8. [Windows 8.1](#8-windows-81)
+9. [Restablecer Windows a la Configuración de Fábrica](#9-restablecer-windows-a-la-configuración-de-fábrica)
+10. [Creación de una Cuenta Local en Windows durante la Instalación](#10-creación-de-una-cuenta-local-en-windows-durante-la-instalación)
+11. [Windows 11 Home sin conexión a internet](#11-windows-11-home-sin-conexión-a-internet)
+12. [Instalación de Windows sin Bloatware](#12-instalación-de-windows-sin-bloatware)
+13. [Seleccionar el Idioma una Vez Instalado Windows](#13-seleccionar-el-idioma-una-vez-instalado-windows)
+14. [Licencia](#licencia)
+15. [Dando Estrella](#dando-estrella)
+
 # 1. **Descargar Ventoy:**
    - **Descripción:** Obtén Ventoy, una herramienta que te permite crear unidades USB de arranque múltiple de manera sencilla.
    - **Enlace:** [Descargar Ventoy](https://www.ventoy.net/en/download.html)
