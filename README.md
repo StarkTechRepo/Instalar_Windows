@@ -237,7 +237,7 @@ Si necesitas instalar Windows sin utilizar un USB, puedes seguir estos pasos:
 
 **Descripción:** Similar a Windows Enterprise, pero sin el Reproductor de Windows Media preinstalado.
 
-Estas ediciones "N" se proporcionan para cumplir con las regulaciones antimonopolio y permitir que los usuarios elijan e instalen su propio software multimedia si lo desean. Ten en cuenta que esta información puede haber cambiado desde mi última actualización, así que siempre es recomendable verificar las últimas fuentes de Microsoft para obtener la información más reciente.
+Estas ediciones "N" se proporcionan para cumplir con las regulaciones antimonopolio y permitir que los usuarios elijan e instalen su propio software multimedia si lo desean. 
 
 ---
 
