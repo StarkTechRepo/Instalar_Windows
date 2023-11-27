@@ -14,8 +14,9 @@
 12. [Instalación de Windows sin Bloatware](#12-instalación-de-windows-sin-bloatware)
 13. [Seleccionar el Idioma una Vez Instalado Windows](#13-seleccionar-el-idioma-una-vez-instalado-windows)
 14. [Instalación de Windows sin USB](#14-instalación-de-windows-sin-usb)
-15. [Licencia](#licencia)
-16. [Dando Estrella](#dando-estrella)
+15. [Versiones de Windows](#Versiones-de-Windows)
+16. [Licencia](#licencia)
+17. [Dando Estrella](#dando-estrella)
 
 ---
 
@@ -167,6 +168,99 @@ Si necesitas instalar Windows sin utilizar un USB, puedes seguir estos pasos:
    - Sigue los pasos normales de instalación de Windows desde la imagen montada.
 
 **Nota:** Estos pasos pueden variar según la configuración de tu sistema y la versión de Windows que estás instalando. Asegúrate de respaldar tus datos antes de realizar cambios significativos en la configuración del disco.
+
+---
+
+# Versiones de Windows
+
+## Windows Home
+
+**Descripción:** Diseñada para usuarios domésticos y pequeñas empresas. Incluye funciones esenciales como el menú Inicio renovado, el asistente virtual Cortana, el navegador Microsoft Edge y la tienda Windows Store.
+
+- **Recomendación:** Ideal para usuarios domésticos que buscan una experiencia de usuario intuitiva y funcionalidades esenciales.
+- **Características Destacadas:**
+  - Menú Inicio renovado.
+  - Asistente virtual Cortana.
+  - Navegador Microsoft Edge.
+  - Tienda Windows Store para aplicaciones.
+
+---
+
+## Windows Pro
+
+**Descripción:** Similar a la edición Home, pero con características adicionales orientadas a usuarios empresariales y profesionales. Incluye funciones como BitLocker (para cifrado de disco), Hyper-V (virtualización) y políticas de grupo avanzadas.
+
+- **Recomendación:** Recomendado para usuarios avanzados, entusiastas y pequeñas empresas. Ofrece características empresariales adicionales.
+- **Características Destacadas:**
+  - BitLocker para cifrado de disco.
+  - Hyper-V para virtualización.
+  - Políticas de grupo avanzadas.
+
+---
+
+## Windows Enterprise
+
+**Descripción:** Diseñada para grandes empresas y organizaciones. Incluye todas las características de Windows Pro, así como funciones adicionales centradas en la seguridad y la gestión de dispositivos a nivel empresarial.
+
+---
+
+## Windows Education
+
+**Descripción:** Similar a Windows Enterprise, pero diseñada específicamente para entornos educativos. Incluye herramientas para la gestión de aulas y funciones específicas para el ámbito educativo.
+
+---
+
+## Windows S
+
+**Descripción:** Una versión simplificada de Windows diseñada para ser más segura y eficiente en términos de rendimiento. Solo permite la instalación de aplicaciones desde la Microsoft Store, lo que reduce el riesgo de malware.
+
+- **Recomendación:** Enfocado en seguridad y eficiencia. Adecuado para usuarios que desean un entorno más controlado y seguro.
+- **Características Destacadas:**
+  - Instalación de aplicaciones solo desde la Microsoft Store.
+  - Reducción del riesgo de malware.
+
+---
+
+## Windows Pro for Workstations
+
+**Descripción:** Orientada a estaciones de trabajo de alto rendimiento y usuarios avanzados que requieren capacidades de hardware y rendimiento extremas, como procesadores de varios núcleos y grandes cantidades de memoria RAM.
+
+- **Recomendación:** Diseñado para estaciones de trabajo de alto rendimiento. Ideal para usuarios avanzados que requieren capacidades extremas de hardware y rendimiento.
+- **Características Destacadas:**
+  - Soporte para hardware de estaciones de trabajo.
+  - Rendimiento optimizado para cargas de trabajo intensivas.
+
+---
+
+## Windows IoT (Internet of Things)
+
+**Descripción:** Diseñada para dispositivos y sistemas integrados en el Internet de las cosas (IoT). Hay varias ediciones, como Windows IoT Core, Windows IoT Enterprise, cada una adaptada para diferentes tipos de dispositivos y aplicaciones específicas.
+
+---
+
+## Windows Server
+
+**Descripción:** Diseñado para entornos de servidor. Hay varias ediciones, como Windows Server Standard y Windows Server Datacenter, cada una con diferentes características y capacidades para satisfacer las necesidades específicas de servidores empresariales.
+
+---
+
+## Windows Home N
+
+**Descripción:** Similar a Windows Home, pero sin el Reproductor de Windows Media preinstalado.
+
+---
+
+## Windows Pro N
+
+**Descripción:** Similar a Windows Pro, pero sin el Reproductor de Windows Media preinstalado.
+
+---
+
+## Windows Enterprise N
+
+**Descripción:** Similar a Windows Enterprise, pero sin el Reproductor de Windows Media preinstalado.
+
+Estas ediciones "N" se proporcionan para cumplir con las regulaciones antimonopolio y permitir que los usuarios elijan e instalen su propio software multimedia si lo desean. Ten en cuenta que esta información puede haber cambiado desde mi última actualización, así que siempre es recomendable verificar las últimas fuentes de Microsoft para obtener la información más reciente.
 
 ---
 
