@@ -177,24 +177,11 @@ Si necesitas instalar Windows sin utilizar un USB, puedes seguir estos pasos:
 
 **Descripción:** Diseñada para usuarios domésticos y pequeñas empresas. Incluye funciones esenciales como el menú Inicio renovado, el asistente virtual Cortana, el navegador Microsoft Edge y la tienda Windows Store.
 
-- **Recomendación:** Ideal para usuarios domésticos que buscan una experiencia de usuario intuitiva y funcionalidades esenciales.
-- **Características Destacadas:**
-  - Menú Inicio renovado.
-  - Asistente virtual Cortana.
-  - Navegador Microsoft Edge.
-  - Tienda Windows Store para aplicaciones.
-
 ---
 
 ## Windows Pro
 
 **Descripción:** Similar a la edición Home, pero con características adicionales orientadas a usuarios empresariales y profesionales. Incluye funciones como BitLocker (para cifrado de disco), Hyper-V (virtualización) y políticas de grupo avanzadas.
-
-- **Recomendación:** Recomendado para usuarios avanzados, entusiastas y pequeñas empresas. Ofrece características empresariales adicionales.
-- **Características Destacadas:**
-  - BitLocker para cifrado de disco.
-  - Hyper-V para virtualización.
-  - Políticas de grupo avanzadas.
 
 ---
 
@@ -214,21 +201,11 @@ Si necesitas instalar Windows sin utilizar un USB, puedes seguir estos pasos:
 
 **Descripción:** Una versión simplificada de Windows diseñada para ser más segura y eficiente en términos de rendimiento. Solo permite la instalación de aplicaciones desde la Microsoft Store, lo que reduce el riesgo de malware.
 
-- **Recomendación:** Enfocado en seguridad y eficiencia. Adecuado para usuarios que desean un entorno más controlado y seguro.
-- **Características Destacadas:**
-  - Instalación de aplicaciones solo desde la Microsoft Store.
-  - Reducción del riesgo de malware.
-
 ---
 
 ## Windows Pro for Workstations
 
 **Descripción:** Orientada a estaciones de trabajo de alto rendimiento y usuarios avanzados que requieren capacidades de hardware y rendimiento extremas, como procesadores de varios núcleos y grandes cantidades de memoria RAM.
-
-- **Recomendación:** Diseñado para estaciones de trabajo de alto rendimiento. Ideal para usuarios avanzados que requieren capacidades extremas de hardware y rendimiento.
-- **Características Destacadas:**
-  - Soporte para hardware de estaciones de trabajo.
-  - Rendimiento optimizado para cargas de trabajo intensivas.
 
 ---
 
